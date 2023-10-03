@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/InputName.unity
+    guid: 44425aec207a2ca4087d30f18563da67
+  - enabled: 1
+    path: Assets/Game/Scenes/Mainmenu.unity
+    guid: ef282d9363e36b143a1451e85c41f542
+  - enabled: 1
+    path: Assets/Game/Scenes/level_select_word.unity
+    guid: c7f1af19e2ec0014d9528dbe99a822ac
+  - enabled: 1
+    path: Assets/Game/Scenes/Mode/GameSelectWord.unity
+    guid: 5749d97a44dc0dd42a4af3b4a9af7ed5
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelSelects.unity
+    guid: 33d746acdbcba1d42bfb70e4c9ea8c3d
+  - enabled: 1
+    path: Assets/Game/Scenes/Mode/GameSelectPhoto.unity
+    guid: 5db9054c58c0e8047aac2b930f1ef462
+  - enabled: 1
+    path: Assets/Game/Scenes/Mode/GameWord.unity
+    guid: 15112b4db1418e546867a6d3fa049e38
+  - enabled: 1
+    path: Assets/Game/Scenes/Mode/GameAddWords.unity
+    guid: 9c454702901bdb34daee85be1401bafe
+  - enabled: 1
+    path: Assets/Game/Scenes/Ranking.unity
+    guid: 363f7be823d2a944b8884753b68b942d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9f0120b88b0b6ca4b9eedfa32e06f22b, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: e35a6da1eb18de7438fea15cdd5823a6, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 415793bdcf1a8db4690f196dbdbb0a77, type: 2}

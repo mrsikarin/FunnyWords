@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a2e67e11cc37034cbc80e33c640da7f, type: 3}
+  m_Name: Animal
+  m_EditorClassIdentifier: 
+  nameData: ANIMAL
+  listPhotos:
+  - {fileID: 21300000, guid: 6810496dd89efa449ab34d4232edfaa9, type: 3}
+  - {fileID: 21300000, guid: 5c5879aad4f38fe40b61f2b10c145e4a, type: 3}
+  - {fileID: 21300000, guid: b5134c5f9dfec404db9a256fb8689a57, type: 3}
+  - {fileID: 21300000, guid: 7c3dbccf890f2f54f8aafb8ae3bfff26, type: 3}
+  - {fileID: 21300000, guid: d9874a6404bd16949bd40b8f61326087, type: 3}
+  - {fileID: 21300000, guid: 1aab473217088004fa237230b13e1eaf, type: 3}
+  - {fileID: 21300000, guid: 4fb121043826b7b429c1c1c26e6c5c45, type: 3}
+  - {fileID: 21300000, guid: 44b3de9c3469ecf4e83e0db483534502, type: 3}
+  - {fileID: 21300000, guid: f694d23e3d9e9eb43a9be1c5a72de920, type: 3}
+  - {fileID: 21300000, guid: 09a8347029e7e424196432cdc7701e24, type: 3}
+  - {fileID: 21300000, guid: 5bce7c6d8148c9845be7a043f224e770, type: 3}
+  - {fileID: 21300000, guid: c4b2b1a941a70a14da4843267d92ac14, type: 3}
+  - {fileID: 21300000, guid: f47c22cc9b20dc549af0d76461409cab, type: 3}
+  - {fileID: 21300000, guid: fd70bac07ff72754c85e83551d48f6b1, type: 3}
